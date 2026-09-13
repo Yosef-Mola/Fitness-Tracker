@@ -1,0 +1,6 @@
+#FileLock
+#Sat Sep 12 17:04:15 IDT 2026
+hostName=192.168.0.157
+id=1a095eed7c5b30c8f141158770b94fbb4a36d00db95
+method=file
+server=192.168.0.157\:58602
